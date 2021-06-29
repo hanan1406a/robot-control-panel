@@ -1,0 +1,62 @@
+html{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0,0,0,0.7)),  url(ريبورت.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+
+}
+
+.main{
+    color: aliceblue;
+    padding-right: 20px;
+}
+
+
+
+
+
+.container{
+    width: 100%;
+    float:left;
+    margin: 0 auto;
+    
+
+}
+.main2{
+    margin-right: 30%;
+position:fixed;
+top: 40%;
+left: 50%;
+
+}
+
+
+.center{
+    position: fixed;
+    
+    margin-left: 30px;
+
+ 
+}
+
+.forward{
+    position: static;
+    margin-left: 50%;
+    top:30px auto;
+
+
+}
+
+.backward{
+    position: relative;
+    margin-left: 40%;
+    bottom: -45px;
+
+
+}
+
+
+
+
+
